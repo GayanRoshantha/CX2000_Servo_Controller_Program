@@ -53,7 +53,6 @@ The project uses standard PLCopen motion control function blocks from the TC2_MC
 
 ![HMI Screen](HMI1.png)
 
-PLC Code Snapshot
 ![PLC Program](PROG.png)
 
 # Electrical Cabinet Setup
