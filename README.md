@@ -2,14 +2,15 @@
 
 # Overview:
 This project demonstrates the integration and control of a CX2000 series servo motor using a Beckhoff CX8190 Embedded PC with TwinCAT 2 and the TC2_MC2 motion control library.
+
 The system covers complete implementation from hardware setup and electrical installation to PLC programming and HMI-based control.
 
 # Features:
-Servo axis configuration and commissioning in TwinCAT 2
-Motion control using TC2_MC2 function blocks
-Beckhoff HMI interface for manual control and monitoring
-Electrical cabinet integration and wiring setup
-Structured PLC program for motion sequences
+- Servo axis configuration and commissioning in TwinCAT 2
+- Motion control using TC2_MC2 function blocks
+- Beckhoff HMI interface for manual control and monitoring
+- Electrical cabinet integration and wiring setup
+- Structured PLC program for motion sequences
 
 # System Architecture
 Controller: Beckhoff CX8190 Embedded PC
