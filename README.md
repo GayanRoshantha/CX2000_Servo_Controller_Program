@@ -51,10 +51,10 @@ The project uses standard PLCopen motion control function blocks from the TC2_MC
 
 # HMI Preview
 
-![HMI Screen](images/hmi_servo_control.jpg)
+![HMI Screen](HMI1.png)
 
 PLC Code Snapshot
-![PLC Program](images/plc_program.png)
+![PLC Program](PROG.png)
 
 # Electrical Cabinet Setup
 The servo controller is mounted inside the electrical cabinet with proper:
@@ -64,7 +64,7 @@ The servo controller is mounted inside the electrical cabinet with proper:
 - Shielding and grounding
 - Cabinet Installation
 
-![Cabinet Setup](images/cabinet_servo.jpg)
+![Cabinet Setup](Servo1.jpg)
 
 # Getting Started
 # Prerequisites
